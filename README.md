@@ -1,0 +1,2 @@
+# Sentiment_Analysis_using_scikit_learn
+ In this this project a logistic regression model was built using scikit-learn to classify movie reviews as either positive or negative. The popular IMDB data set was used to train the model. The Natural Language Toolkit (NLTK) was used for data pre-processing and feature extraction. The cross validation technique was used to tune the hyperparameter. An accuracy score of 86.3% was achived. 
